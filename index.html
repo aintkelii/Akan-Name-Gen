@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akan Name Generator</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <h1>AKA NAME GENERATOR</h1>
+    <p>Enter your birthdate and select your gender to find out your Akan name.</p>
+    <form id="akan-form">
+        <label for="birthdate">Birthdate:</label>
+        <input type="date" id="birthdate" name="birthdate" required>
+        <br>
+        <label for="gender">Gender:</label>
+        <select id="gender" name="gender" required>
+            <option value="">Select Gender</option>
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+        </select>
+        <br>
+        <button type="submit">Submit</button>
+    </form>
+    <p id="result"></p>
+    <script src="./js/index.js"></script>
+</body>
+</html>
+
