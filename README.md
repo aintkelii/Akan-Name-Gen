@@ -20,3 +20,6 @@ You can reach me at [george.kivinda@student.moringaschool.com].
 
 ## License
 MIT License
+Copyright (c) 2025
+
+Permission is hereby granted to any person obtaining a copy of the software and associated documentation file(the 'software'), to deal with the software without restriction, including without the limit to use as a copy ,modify,merge,publish and sell copies to any person to do so , subject to the following conditions. 
